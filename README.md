@@ -7,7 +7,7 @@
 <p>revival-list.com subdomains</p>
 🌟 <a href="https://luobu.revival-list.com">luobu.revival-list.com</a><br>
 🌟 <a href="https://blog.revival-list.com">blog.revival-list.com</a><br>
-🌟 <a href="https://hexagon-blog.revival-list.com">hexagon-blog.revival-list.com</a><br>
+🌟 <a href="https://hx-blog.revival-list.com/">hx-blog.revival-list.com/</a><br>
 🌟 <a href="https://yt.revival-list.com">yt.revival-list.com</a><br>
 <hr>
 <p>g-bug subdomains</p>
