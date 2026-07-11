@@ -16,5 +16,6 @@
 🌟 <a href="https://rblxdev.g-bug.site">rblxdev.g-bug.site</a><br>
 🌟 <a href="https://setup.g-bug.site">setup.g-bug.site</a><br>
 🌟 <a href="https://cave.g-bug.site/">cave.g-bug.site</a><br>
+🌟 <a href="https://fbk.g-bug.site/">fbk.g-bug.site</a><br>
 <br>
 <p><s>(ngl this list looks ai generated)</s></p>
