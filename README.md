@@ -1,4 +1,4 @@
-<h1>i make some bullshit</h1>
+<h1>i make some random bullshit</h1>
 <img src="https://static.boredpanda.com/blog/wp-content/uploads/2024/01/659fe2c74e680_9xee90fb4zj31__700.jpg" width="500">
 <p>the main stuff</p>
 👑 <a href="https://revival-list.com">revival-list.com</a><br>
